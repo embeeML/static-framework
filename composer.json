@@ -1,0 +1,10 @@
+{
+  "name": "embeeml/static-framework",
+  "description": "My personal static web starter framework",
+  "type": "project",
+  "license": "MIT",
+  "require": {},
+  "extra": {
+    "installer-name": "static-framework"
+  }
+}
