@@ -4,7 +4,7 @@
   "description": "My personal static HTML/CSS/JS starter framework",
   "scripts": {
     "postinstall": "npm run copy-deps",
-    "copy-deps": "npm run copy-animate && npm run copy-jquery && npm run copy-gsap && npm run copy-fa",
+    "copy-deps": "npm run copy-animate && npm run copy-jquery && npm run copy-gsap",
     "copy-animate": "mkdir -p assets/vendor/css && cp node_modules/animate.css/animate.css assets/vendor/css/animate.css",
     "copy-jquery": "mkdir -p assets/vendor/js && cp node_modules/jquery/dist/jquery.min.js assets/vendor/js/jquery.min.js",
     "copy-gsap": "mkdir -p assets/vendor/js && cp node_modules/gsap/dist/gsap.min.js assets/vendor/js/gsap.min.js"
