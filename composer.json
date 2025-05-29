@@ -3,5 +3,7 @@
   "description": "My personal static web starter framework",
   "type": "project",
   "license": "MIT",
-  "require": {}
+  "require": {
+    "phpmailer/phpmailer": "^6.10"
+  }
 }
