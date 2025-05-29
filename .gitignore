@@ -1,4 +1,4 @@
-.DS_Store
+.DS_Storecd ass
 .DS_Store?
 ._*
 .Spotlight-V100
@@ -7,3 +7,6 @@ ehthumbs.db
 Thumbs.db
 testing/
 beta/
+/vendor/
+/composer.lock
+/node_modules/
