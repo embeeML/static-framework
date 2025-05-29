@@ -1,6 +1,6 @@
 {
   "name": "static-web-framework",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "My personal static HTML/CSS/JS starter framework",
   "scripts": {
     "postinstall": "npm run copy-deps",
